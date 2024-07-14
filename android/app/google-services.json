@@ -1,0 +1,39 @@
+ {
+  "project_info": {
+    "project_number": "353908111632",
+    "project_id": "ijob-clone-app-0511",
+    "storage_bucket": "ijob-clone-app-0511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353908111632:android:05d0530c261b05c76dcd95",
+        "android_client_info": {
+          "package_name": "habibiqodri.ijob_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353908111632-u4mlsor0qrfc3ubo6o6i55g2oicvf5u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJU7XRUf-Cs_kiAtRksfCj62mF_zrx-Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353908111632-u4mlsor0qrfc3ubo6o6i55g2oicvf5u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
